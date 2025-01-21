@@ -2,6 +2,8 @@
 
 Leverage.trade (Game Hub) is a platform designed to redefine the gaming and trading experience by merging decentralized technologies with engaging gameplay. It allows users to participate in a trustless, non-custodial environment where they can bid individually against secure, open-source, contract-based bots or compete in multiplayer modes with leverage up to 10x. This unique blend of gaming and trading brings a gamified, community-driven experience to the decentralized ecosystem.
 
+For more info read https://catprotocol.org/
+
 ## Key Features
 
 ### Secure and Transparent Gameplay
