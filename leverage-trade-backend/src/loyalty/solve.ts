@@ -101,6 +101,9 @@ export async function solve(props: {
   psbt.finalizeInput(0, finalizer);
 
   const tx = psbt.extractTransaction();
+
+  console.log("tx Id: ", tx.getId());
+
   return {
     txid: tx.getId(),
     txHex: tx.toHex(),
